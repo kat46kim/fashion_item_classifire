@@ -1,0 +1,5 @@
+streamlit==1.29.0
+torch==1.12.1+cpu
+torchvision==0.13.1+cpu
+Pillow==9.2.0
+matplotlib==3.6.2
